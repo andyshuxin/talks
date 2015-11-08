@@ -1,3 +1,7 @@
 body {
   font-family: "Helvetica Neue", "Arial", sans-serif
 }
+
+li {
+  margin-bottom: 0.5em;
+}
